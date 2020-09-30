@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/0lh8pep9wq98g10/channel-23.png" group-title="IPTV BANGLA",Channel 23 HD
+http://103.108.140.164:1009/channel23/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q75gwsfh5epow01/Channel-19.png" group-title="IPTV BANGLA",Channel 19 HD
+https://visioncable2020.com/live/visioncable.m3u8
