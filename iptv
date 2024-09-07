@@ -1,5 +1,94 @@
 #EXTM3U
 
+<-----BANGLA----->
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",EKUSHEY TV 
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",DEEPTO TV HD 
+http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",BOISHAKHI TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",BANGLA TV HD
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",CHANNEL S HD 
+https://amigofx.com:1936/channelsreporter/channelsreporter/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",NANDAN TV
+https://weblive.nandansyst.com/hls/nandan_src/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",DESHBIDESHE TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",BANGLA TV EUROPE
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/1_2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",CHANNEL S UK
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",iB TV USA 
+https://5dd3981940faa.streamlock.net/ibtvusa/ibtvusa/chunklist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",DESHI TV 
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",TIMES TV USA
+https://egress-1.do-ny-3.ttv.dotworldcorp.com/hls/ttv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",PROBASHI TV
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",DOYEL TV
+https://live.doyeltv.com:8888/live/doyeltv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",TBN 24
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",MAGIC BANGLA TV HD
+http://mbanglatv.jolshabd.com:1935/live/mbanglatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",MOVIE BANGLA 
+http://alvetv.com/mbtv/8080/index.m3u8
+#EXTINF:-1 tvg-logo="",AMAR BANGLA 
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",SANGEET BANGLA 
+https://cdn3.pishow.tv/live/285/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",DHOOM
+https://cdn3.pishow.tv/live/279/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",ATN MUSIC
+https://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",JHANKAR TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",MON MUSIC
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",FB TV 
+http://162.244.81.200:1935/live/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",RUPOSHI BANGLA
+https://cdn3.pishow.tv/live/281/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",KHUSHBOO BANGLA
+https://cdn3.pishow.tv/live/283/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",BANGLA PLUS HD
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",PEACE TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",ISLAM CHANNEL BANGLA
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",ATN ISLAMIC TV
+https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",AZAN TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",PBN TV
+https://livess.ncare.live/live-orgin/pbntv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",DEEN TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",IQRA TV BANGLA 
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",ABP ANANDA
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",CN NEWS 
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",NEWS TIME BANGLA
+https://cdn3.pishow.tv/live/280/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",SOMOY KOLKATA
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",HIGH NEWS
+http://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",BANGLA JAGO
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",PRATIDIN TIME 
+https://server.thelegitpro.in/pratidintime/pratidintime/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="" group-title="BANGLA",NK TV PLUS
+https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+
+
 <-----HINDI----->
 #EXTINF:-1 tvg-logo="" group-title="HINDI",9XM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=562400.m3u8
@@ -188,4 +277,26 @@ http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1113158001_b496072.m3u8
 
 
-
+<-----ISLAMIC----->
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",QURAN TV 
+http://m.live.net.sa:1935/live/quran/chunklist_w300832660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",SUNNAH TV 
+http://m.live.net.sa:1935/live/quran/chunklist_w300832660.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",PEACE TV ENGLISH
+https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",PEACE TV URDU
+https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",PEACE TV CHINESE
+https://dzkyvlfyge.erbvr.com/PeaceTvChinese/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",IQRA TV URDU
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",EMAM CHANNEL 
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",AL ISTIQAMA
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",PRIME CANADA TV
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",CANADA ONE
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ISLAMIC",MTA 7 ASIA 
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist_2300.m3u8
